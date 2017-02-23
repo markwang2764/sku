@@ -1,4 +1,4 @@
-# vue2-test
+# JD-sku
 
 > A Vue.js project
 
